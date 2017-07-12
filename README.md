@@ -2,6 +2,7 @@
 
 ### Instalação (Linux):
 ```sudo apt-get install build-essential libudev-dev```
+
 ```npm install usb```
 
 ### Execução (Linux):
